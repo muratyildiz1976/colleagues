@@ -20,4 +20,5 @@ Heiko Lewandowski - Targens <br/>
 Steffen Munz - Targens <br/>
 Klaus Klee - Debeka <br/>
 Marike Reger - Debeka <br/>
+Rüdiger Simon - Debeka <br/>
 
