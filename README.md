@@ -15,4 +15,6 @@ Patrick Taddey - CEWE <br/>
 Jaron Little - CEWE <br/>
 Dominic Karasch - CEWE <br/>
 Bartosz Makara - CEWE <br/>
+Bernhard von Fromberg - Targens <br/>
+Heiko Lewandowski - Targens <br/>
 
