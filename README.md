@@ -1,7 +1,7 @@
 # colleagues
 Vip's
 
-Ralf Geerdsen - Telekom
-Corinna Gutmann - Telekom
-Hauke von Bremen - NTTData
-Sylvia Possenau - NTTData
+Ralf Geerdsen - Telekom <br/>
+Corinna Gutmann - Telekom <br/>
+Hauke von Bremen - NTTData <br/>
+Sylvia Possenau - NTTData <br/>
