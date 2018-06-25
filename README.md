@@ -8,3 +8,4 @@ Sylvia Possenau - NTTData <br/>
 Delphine Roux Deselas - Thales <br/>
 Adam Zovits - Thales <br/>
 Wolfgang Wünsche - Targens <br/>
+Tobias Trojan <br/>
