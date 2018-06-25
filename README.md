@@ -10,3 +10,9 @@ Adam Zovits - Thales <br/>
 Wolfgang Wünsche - Targens <br/>
 Tobias Trojan - Thales <br/>
 Melanie Handel - Daimler TSS <br/>
+Tino Tubandt - CEWE <br/>
+Patrick Taddey - CEWE <br/>
+Jaron Little - CEWE <br/>
+Dominic Karasch - CEWE <br/>
+Bartosz Makara - CEWE <br/>
+
