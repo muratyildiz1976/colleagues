@@ -19,4 +19,5 @@ Bernhard von Fromberg - Targens <br/>
 Heiko Lewandowski - Targens <br/>
 Steffen Munz - Targens <br/>
 Klaus Klee - Debeka <br/>
+Marike Reger - Debeka <br/>
 
