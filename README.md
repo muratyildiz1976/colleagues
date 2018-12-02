@@ -12,6 +12,8 @@ Robert Seifert - Thales <br/>
 Melanie Handel - Daimler TSS <br/>
 Kai Poguntke - Daimler TSS <br/>
 Thorsten Schmid - Daimler TSS <br/>
+Christoph Späth - Daimler TSS <br/>
+Jochen Wandel - Daimler TSS <br/>
 Tino Tubandt - CEWE <br/>
 Patrick Taddey - CEWE <br/>
 Jaron Little - CEWE <br/>
