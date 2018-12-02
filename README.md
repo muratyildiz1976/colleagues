@@ -8,6 +8,7 @@ Sylvia Possenau - NTTData <br/>
 Delphine Roux Deselas - Thales <br/>
 Adam Zovits - Thales <br/>
 Tobias Trojan - Thales <br/>
+Robert Seifert - Thales <br/>
 Melanie Handel - Daimler TSS <br/>
 Kai Poguntke - Daimler TSS <br/>
 Tino Tubandt - CEWE <br/>
