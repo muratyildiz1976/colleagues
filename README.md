@@ -26,5 +26,8 @@ Wolfgang Wünsche - Targens <br/>
 Klaus Klee - Debeka <br/>
 Marike Reger - Debeka <br/>
 Rüdiger Simon - Debeka <br/>
+Peter Schwaab - Ergo <br/>
+Klaus-Peter Scherer Ergo <br/>
+Bodo Gastiger Ergo <br/>
 
 
